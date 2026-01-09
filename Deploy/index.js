@@ -82,7 +82,7 @@ app.get('/login', (req,res) => {
 })
 
 app.get('/youtube', (req,res) => {
-    res.send('<h2>Priya Nail Art</h2>')
+    res.send('<h1>Welcome to the Priya Nail Art.</h1>')
 })
 
 app.get('/github', (req,res) => {
